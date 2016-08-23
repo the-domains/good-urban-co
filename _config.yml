@@ -1,4 +1,3 @@
-layout_spectrum: 0.8680965839885175
 typography_spectrum: 0.6596873216331005
 color:
   brandStrength: 0.32741544349119067
@@ -6,9 +5,11 @@ color:
   saturation: 0.6104640853591263
   rhythmicContrast: 0.6593419592827559
   brandColors:
-    - '#14223D'
-    - '#336876'
-    - '#749395'
-    - '#9F7870'
-    - '#D2A772'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+layout_spectrum: 0.8680965839885175
 name: Good Urban Co.
+description: All Day Long
